@@ -1,0 +1,34 @@
+Put notes in here on work done (ex. what step we are on)
+Gut the msh code			completed 3/29/17
+
+Open implementation			completed 3/30/17
+
+Close implementation			completed 3/30/17
+
+info implementation
+    stub created			completed 4/7/17
+    open_file gets data			completed 4/9/17
+    display_info displays data		completed 4/9/17
+
+stat implementation
+    stub created			completed 4/10/17
+    displays the stats of the directory completed 4/10/17
+    displays the stats of the file      completed 4/10/17
+    detect if file is not found         completed 4/10/17
+
+cd implementation
+    stub created			completed 4/11/17
+    current directory changing  	completed 4/11/17
+    relative pathing support		completed 4/11/17
+
+ls implementation
+    stub created             		completed 4/10/17
+    current directory listing 		completed 4/10/17
+    relative directory listing          completed 4/10/17
+
+read implementation
+    stub created 			completed 4/11/17
+    pathing				completed 4/11/17
+    reading				completed 4/11/17
+
+volume implementation			completed 4/11/17
